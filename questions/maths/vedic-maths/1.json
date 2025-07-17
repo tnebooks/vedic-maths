@@ -1,0 +1,22 @@
+{
+  "question": "37+23 =?",
+  "explanation": "Use completing the whole method to find the sum of the numbers which adds up to 10 or multiples of 10",
+  "choices": [
+    {
+      "label": "50",
+      "answer": false
+    },
+    {
+      "label": "60",
+      "answer": true
+    },
+    {
+      "label": "70",
+      "answer": false
+    },
+    {
+      "label": "80",
+      "answer": false
+    }
+  ]
+}
